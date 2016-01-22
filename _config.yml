@@ -1,0 +1,28 @@
+name: loreleisunshine
+favicon: null
+layout_spectrum: 0.23635467770509422
+typography_spectrum: 0.8532136783469468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7804405298084021
+  lightness: 0.962653020163998
+  saturation: 0.6568061569705606
+  rhythmicContrast: 0.9623193887528032
+purpose: []
